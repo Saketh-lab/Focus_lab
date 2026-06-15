@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.matplotlib-cache/
+.venv/
+checkpoints/
+logs/
+outputs/
